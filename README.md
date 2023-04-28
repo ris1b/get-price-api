@@ -4,7 +4,13 @@
 
 # RestFul API description 
 
-## End-point
+## Deployment
+
+The Spring Boot App has been deployed to [Google Cloud Platform](https://latestprice-5gzbj4bnla-et.a.run.app) and is accessible at https://latestprice-5gzbj4bnla-et.a.run.app.
+
+To interact with the application, you can make requests to the following endpoints:
+
+### End-point
 
 **GET**  `/price`
 
